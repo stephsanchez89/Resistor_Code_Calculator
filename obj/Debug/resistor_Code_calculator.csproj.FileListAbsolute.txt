@@ -1,0 +1,10 @@
+C:\Users\Eduardo\source\repos\resistor_Code_calculator\bin\Debug\resistor_Code_calculator.exe.config
+C:\Users\Eduardo\source\repos\resistor_Code_calculator\bin\Debug\resistor_Code_calculator.exe
+C:\Users\Eduardo\source\repos\resistor_Code_calculator\bin\Debug\resistor_Code_calculator.pdb
+C:\Users\Eduardo\source\repos\resistor_Code_calculator\obj\Debug\resistor_Code_calculator.csprojAssemblyReference.cache
+C:\Users\Eduardo\source\repos\resistor_Code_calculator\obj\Debug\resistor_Code_calculator.Form1.resources
+C:\Users\Eduardo\source\repos\resistor_Code_calculator\obj\Debug\resistor_Code_calculator.Properties.Resources.resources
+C:\Users\Eduardo\source\repos\resistor_Code_calculator\obj\Debug\resistor_Code_calculator.csproj.GenerateResource.cache
+C:\Users\Eduardo\source\repos\resistor_Code_calculator\obj\Debug\resistor_Code_calculator.csproj.CoreCompileInputs.cache
+C:\Users\Eduardo\source\repos\resistor_Code_calculator\obj\Debug\resistor_Code_calculator.exe
+C:\Users\Eduardo\source\repos\resistor_Code_calculator\obj\Debug\resistor_Code_calculator.pdb
